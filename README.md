@@ -1,12 +1,13 @@
 # Hello! I`m Fatemeh Rezwani 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FatemehRezwani&label=Profile%20views&color=0e75b6&style=flat" alt="FatemehRezwani" /> </p>
 
-### Junior FrontEnd Developer
 
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-## About Me
+## About Me:
+Junior Frontend Developer (JavaScript, React) with 3+ years of experience in developing applications and E-Commerce websites. 
+
 - 🌱 I’m currently working on an Online-Coding-Course to help Afghan Girls to get improve
 - 🤔 I’m looking for a Job to put myself in challenges
 - 💬 Ask me about JavaScript, VueJs and ReactJs
