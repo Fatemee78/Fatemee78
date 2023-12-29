@@ -1,5 +1,5 @@
-# Hello! I`m Fatemeh Rezwani 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FatemehRezwani&label=Profile%20views&color=0e75b6&style=flat" alt="FatemehRezwani" /> </p>
+# Hello! I`m Fatemeh Bakhshi 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-Bakhshi&label=Profile%20views&color=0e75b6&style=flat" alt="f-Bakhshi" /> </p>
 
 
 
@@ -11,7 +11,7 @@ Junior Frontend Developer (JavaScript, React) with 3+ years of experience in dev
 - 🌱 I’m currently working on an Online-Coding-Course to help Afghan Girls to get improve
 - 🤔 I’m looking for a Job to put myself in challenges
 - 💬 Ask me about JavaScript, VueJs and ReactJs
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/fatemeh-rezwani-1a5926189/)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/f-Bakhshi/)
 
 # 💻 Tech Stack:
 
@@ -101,16 +101,16 @@ Junior Frontend Developer (JavaScript, React) with 3+ years of experience in dev
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FatemehRezwani&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FatemehRezwani&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehRezwani&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=f-Bakhshi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=f-Bakhshi&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=f-Bakhshi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FatemehRezwani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=f-Bakhshi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <!--
-**FatemehRezwani/FatemehRezwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**f-Bakhshi/f-Bakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
