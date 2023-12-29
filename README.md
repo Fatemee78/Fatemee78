@@ -11,7 +11,7 @@ Junior Frontend Developer (JavaScript, React) with 3+ years of experience in dev
 - 🌱 I’m currently working on an Online-Coding-Course to help Afghan Girls to get improve
 - 🤔 I’m looking for a Job to put myself in challenges
 - 💬 Ask me about JavaScript, VueJs and ReactJs
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/f-Bakhshi/)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/ftmh-bakhshi/)
 
 # 💻 Tech Stack:
 
