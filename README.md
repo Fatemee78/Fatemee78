@@ -1,5 +1,5 @@
 # Hello! I`m Fatemeh Rezwani 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-Bakhshi&label=Profile%20views&color=0e75b6&style=flat" alt="f-Bakhshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fatemee78&label=Profile%20views&color=0e75b6&style=flat" alt="f-Bakhshi" /> </p>
 
 
 
@@ -101,12 +101,12 @@ Junior Frontend Developer (JavaScript, React) with 3+ years of experience in dev
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=f-Bakhshi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=f-Bakhshi&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=f-Bakhshi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Fatemee78&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fatemee78&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatemee78&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=f-Bakhshi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Fatemee78&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <!--
